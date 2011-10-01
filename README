@@ -1,0 +1,9 @@
+A plasmoid for those who are (or want to begin) using date time groups (e.g. for NATO or armed forces or fun or whatever reason).
+
+Following things are to do
+(feel free to add suggestions)
+- background color (or picture) (I don't find it very useful)
+- clean up and comment the code (see above)
+- translate config dialogs (yeah, I really should do it...)
+
+To install just execute install.sh - but you have to execute kbuildsycoca4 and restart plasma-desktop to use it.

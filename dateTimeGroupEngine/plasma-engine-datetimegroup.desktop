@@ -1,0 +1,17 @@
+[Desktop Entry]
+Name=Date Time Group Engine
+Name[de]=Datum-/Zeitgruppen Engine
+Comment=Engine for NATO Date Time Group Plasmoid
+Comment[de]=Engine für das "Datum-/Zeitgruppe der NATO"-Plasmoid
+Type=Service
+X-KDE-ServiceTypes=Plasma/DataEngine
+X-KDE-Library=plasma_engine_datetimegroup
+X-Plasma-EngineName=datetimegroup
+X-KDE-PluginInfo-Author=Oliver Friedrich
+X-KDE-PluginInfo-Name=datetimegroup
+X-KDE-PluginInfo-Version=0
+X-KDE-PluginInfo-Website=http://olli.bloggt.de
+X-KDE-PluginInfo-Category=Date and Time
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-EnabledByDefault=true
